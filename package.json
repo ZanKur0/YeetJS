@@ -1,0 +1,16 @@
+{
+  "name": "yeet",
+  "version": "1.0.0",
+  "description": "Instead of the boring 'throw', now you can yeet your errors!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/test.js"
+  },
+  "keywords": [
+    "yeet",
+    "error",
+    "throw"
+  ],
+  "author": "Alex Gamez",
+  "license": "ISC"
+}
