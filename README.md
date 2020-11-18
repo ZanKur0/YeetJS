@@ -1,6 +1,6 @@
 # Yeet for JS
 
-You didn't knew you needed this!
+You didn't know you needed this!
 
 ## Why?
 
